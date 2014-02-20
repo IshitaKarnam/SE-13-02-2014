@@ -8,3 +8,4 @@ uhuh
 
 
 Jordan was 'ere. \n
+hello im nikki. \n
